@@ -1,11 +1,10 @@
 <h2 align="center">Welcome to Simon Cheng's profile!</h2>
 
 <img src="img/profile3.svg" alt="drawing" style="
-  width:200px; 
-  height:200px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;"/>
+  width:50%; 
+  display:block;
+  margin-left:auto;
+  margin-right:auto;"/>
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
