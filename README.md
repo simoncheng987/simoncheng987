@@ -4,8 +4,9 @@
   margin-left:auto;
   margin-right:auto;
   width:20%; 
-  height:20%;">
-  <img src="img/profile3.svg" alt="drawing" style="max-width: 20%;"/>
+  height:20%;
+  max-width: 20px">
+  <img src="img/profile3.svg" alt="drawing" style=""/>
   </p>
 
 <!--
