@@ -1,5 +1,5 @@
 ### Hi there 👋
-![drink_coffee](./img/profile3.svg)
+<img src="img/profile3.svg" alt="drawing" style="width:200px; height:200px;"/>
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
