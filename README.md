@@ -5,7 +5,7 @@
   margin-right:auto;
   width:20%; 
   height:20%;">
-  <img src="img/profile3.svg" alt="drawing" style=""/>
+  <img src="img/profile3.svg" alt="drawing" style="max-width: 20%;"/>
   </p>
 
 <!--
