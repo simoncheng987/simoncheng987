@@ -1,6 +1,6 @@
-<h2 align="center">Material Bread</h2>
+<h2 align="center">Welcome to Simon Cheng's profile!</h2>
 
-<img src="img/profile3.svg" alt="drawing" style="width:200px; height:200px;"/>
+<img align="center" src="img/profile3.svg" alt="drawing" style="width:200px; height:200px;"/>
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
