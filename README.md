@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to Simon Cheng's profile!</h2>
-<p style="
+<p align="center" style="
   display:block;
   margin-left:auto;
   margin-right:auto;
