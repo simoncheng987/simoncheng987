@@ -2,10 +2,7 @@
 <p align="center" style="
   display:block;
   margin-left:auto;
-  margin-right:auto;
-  width:20%; 
-  height:20%;
-  max-width: 20px">
+  margin-right:auto;">
   <img src="img/profile3.svg" alt="drawing" style=""/>
   </p>
 
