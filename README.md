@@ -1,6 +1,7 @@
 <h2 align="center">Welcome to Simon Cheng's profile!</h2>
 <div style="
   width:300px; 
+  height:300px; 
   display:block;
   margin-left:auto;
   margin-right:auto;">
