@@ -1,7 +1,9 @@
 <h2 align="center">Welcome to Simon Cheng's profile!</h2>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" width="200px"/>
-  </p>
+</p>
+
+<p> Coffee makes my life great again </p>
 
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
