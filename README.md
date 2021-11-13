@@ -1,11 +1,11 @@
 <h2 align="center">Welcome to Simon Cheng's profile!</h2>
 <div style="
-  width:300px; 
-  height:300px; 
   display:block;
   margin-left:auto;
   margin-right:auto;">
-  <img src="img/profile3.svg" alt="drawing" />
+  <img src="img/profile3.svg" alt="drawing" style="
+  width:300px; 
+  height:300px;"/>
   </div>
 
 <!--
