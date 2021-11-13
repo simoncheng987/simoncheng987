@@ -2,10 +2,10 @@
 <div style="
   display:block;
   margin-left:auto;
-  margin-right:auto;">
-  <img src="img/profile3.svg" alt="drawing" style="
-  width:300px; 
-  height:300px;"/>
+  margin-right:auto;
+  width:200px; 
+  height:200px;">
+  <img src="img/profile3.svg" alt="drawing" style=""/>
   </div>
 
 <!--
