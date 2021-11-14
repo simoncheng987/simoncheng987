@@ -1,4 +1,4 @@
-<span align="center" style="font-family:'Courier New'">Welcome to Simon Cheng's profile!</span>
+<span align="center" style="font-family:'Consolas'">Welcome to Simon Cheng's profile!</span>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" width="200px"/>
 </p>
