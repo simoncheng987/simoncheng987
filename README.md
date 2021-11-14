@@ -1,6 +1,6 @@
 <h3 align="center" style="font-family:'Consolas'">Welcome to Simon Cheng's profile!</h3>
 <p align="center">
-  <img src="img/header.svg" alt="drawing"/>
+  <img src="img/header.svg" alt="drawing" width="200%"/>
 </p>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" width="200px"/>
