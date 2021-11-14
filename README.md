@@ -3,7 +3,7 @@
   <img src="img/profile3.svg" alt="drawing" width="200px"/>
 </p>
 
-<p> Coffee makes my life great again </p>
+<p align="right"> Coffee makes my life great again </p>
 
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
