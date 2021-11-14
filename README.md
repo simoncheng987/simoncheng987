@@ -3,7 +3,7 @@
   <img src="img/header.svg" alt="drawing" width="200%" height="150%"/>
 </p>
 
-<p align="center">
+<p align="center"></p>
 <table>
     <thead>
         <tr>
@@ -20,7 +20,7 @@
         </tr>
     </tbody>
 </table>
-</p>
+<p></p>
 
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" height="200px"/>
