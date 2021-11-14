@@ -1,5 +1,4 @@
 <span align="center" style="font-family:'Consolas'">Welcome to Simon Cheng's profile!</span>
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" width="200px"/>
 </p>
