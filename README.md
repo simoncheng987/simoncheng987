@@ -43,6 +43,7 @@
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td align="center">
+        <br>
         <a href="https://www.linkedin.com/in/simon-cheng-7965211b5/">
         <img height="20px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"><br>
         </a>
