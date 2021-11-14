@@ -50,7 +50,7 @@
         <img height="20px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
         </a>
         <br>
-        <text>www.linkedin.com/in/simon-cheng-7965211b5/</text>
+        <text>linkedin.com/in/simon-cheng-7965211b5/</text>
         <br>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
