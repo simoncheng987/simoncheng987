@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img/header.svg" alt="drawing" width="200%"/>
+  <img src="img/header.svg" alt="drawing" width="200%" height="150%/>
 </p>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" height="200px"/>
