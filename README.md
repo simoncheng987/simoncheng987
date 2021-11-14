@@ -13,7 +13,7 @@
 ![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simoncheng987&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simoncheng987&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoncheng987&layout=compact&title_color=85b4ff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simoncheng987&repo=convoychat" />
