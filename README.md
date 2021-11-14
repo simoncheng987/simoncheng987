@@ -8,13 +8,17 @@
 
 <p align="right"> <img src="img/quote2.svg" alt="drawing" /> </p>
 
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoncheng987&layout=compact&title_color=85b4ff" />
+</a>
 </p>
 
-<p align="center" href="https://github.com/anuraghazra/convoychat">
+<p align="center">
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simoncheng987&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true" />
-</p>
+</a>
+</a>
 
 ```
 - 🔭 I’m currently working on ...
@@ -25,7 +29,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ```
 
 <!--
