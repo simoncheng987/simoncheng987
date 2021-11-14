@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="img/header.svg" alt="drawing" width="200%" height="150%/>
+  <img src="img/header.svg" alt="drawing" width="200%" height="150%"/>
 </p>
 <p align="center">
   <img src="img/profile3.svg" alt="drawing" height="200px"/>
 </p>
 
-<p align="right"> <img src="img/quote.svg" alt="drawing" height="200px"/> </p>
+<p align="right"> <img src="img/quote.svg" alt="drawing" /> </p>
 
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
