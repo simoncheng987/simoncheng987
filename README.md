@@ -6,7 +6,7 @@
   <img src="img/profile3.svg" alt="drawing" height="200px"/>
 </p>
 
-<p align="right"> <img src="img/quote.svg" alt="drawing" /> </p>
+<p align="right"> <img src="img/quote2.svg" alt="drawing" /> </p>
 
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
