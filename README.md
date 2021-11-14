@@ -9,8 +9,15 @@
 <p align="right"> <img src="img/quote2.svg" alt="drawing" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncheng987&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simoncheng987&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simoncheng987&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simoncheng987&repo=convoychat" />
+</a>
 
 <!--
 **simoncheng987/simoncheng987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
