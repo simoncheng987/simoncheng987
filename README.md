@@ -6,7 +6,7 @@
   <img src="img/profile3.svg" alt="drawing" height="200px"/>
 </p>
 
-<p align="right"> <img src="img/quote2.svg" alt="drawing" /> </p>
+<p align="center"> <img src="img/quote4.svg" alt="drawing" /> </p>
 
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
