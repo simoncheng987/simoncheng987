@@ -26,7 +26,7 @@
     <tr>
       <td align="center">
         <br>
-        <a href="simoncheng987@gmail.com ">
+        <a href="mailto:simoncheng987@gmail.com ">
         <img height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         <br>
         </a>
