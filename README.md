@@ -3,7 +3,7 @@
   <img src="img/header.svg" alt="drawing" width="200%"/>
 </p>
 <p align="center">
-  <img src="img/profile3.svg" alt="drawing" height="400px"/>
+  <img src="img/profile3.svg" alt="drawing" height="200px"/>
 </p>
 
 <p align="right"> Coffee makes my life great again </p>
