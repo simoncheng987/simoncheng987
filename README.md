@@ -8,13 +8,11 @@
 
 <p align="right"> <img src="img/quote2.svg" alt="drawing" /> </p>
 
-![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simoncheng987&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
-
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoncheng987&layout=compact&title_color=85b4ff" />
 </p>
 
-<p href="https://github.com/anuraghazra/convoychat">
+<p align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simoncheng987&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true" />
 </p>
 
